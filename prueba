@@ -1,0 +1,14 @@
+inputBox {
+    position: relative;
+}
+inputBox input {
+    padding: 15px 20px;
+    outline: none;
+    background: transparent;
+    border-radius: 5px;
+    color: #fff;
+    border: 1px solid#ee8456
+    font-size: 1em;
+    transition: 0.4s
+    cubic-bezier(0.05, 0.81, 0, 0.93);
+}
